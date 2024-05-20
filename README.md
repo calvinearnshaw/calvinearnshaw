@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a virtual tour guide for the University of Aberdeen's Art History department.<br>👯 I'm looking to collaborate on new web and mobile apps using React, Next.JS, and Flutter.<br>🤝 I'm looking for help with UX/UI design.<br>🌱 I'm currently learning new web testing frameworks such as Cypress, Mocha, and React Testing Library.<br>💬 Ask me about the MERN tech stack.<br>⚡️ Fun fact - I produce my own music!
+🔭 I'm currently working on a virtual tour guide for the University of Aberdeen's Art History department.<br>👯 I'm looking to collaborate on new web and mobile apps using React, Next.JS, and Flutter.<br>🤝 I'm looking for help with UX/UI design.<br>🌱 I'm currently learning C++.<br>💬 Ask me about the MERN tech stack.<br>⚡️ Fun fact - I produce my own music!
 
 
 ## 🌐 Socials:
