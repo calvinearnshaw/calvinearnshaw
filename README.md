@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 I'm currently working on an Honours Project on implementing and benchmarking a Landmark-Cut Heuristic in an Automated Classical Planner.<br>👯 I'm looking to collaborate on new web and mobile apps using React, Next.JS, and Flutter.<br>🤝 I'm looking for help with UX/UI design.<br>🌱 I'm currently learning C++.<br>💬 Ask me about the MERN tech stack.<br>⚡️ Fun fact - I produce my own music!
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calvinearnshaw) 
 
 # 💻 Tech Stack:
